@@ -1,4 +1,4 @@
-# CAP-Affordable-housing
+# Affordable-housing
 
 <!DOCTYPE html>
 <html lang="en">
@@ -21,8 +21,7 @@
     
     <meta property="og:url" content="https://mfts.io/" />
     <meta property="og:title" content="Marc Seitz" />
-    <meta property="og:description" content="Hi, I&rsquo;m Marc &hellip;and I work for the next generation of makers.
-Tech is reshaping how we learn and come together. Software is ubiquitious and every person can now build their way to a future that inspires them." />
+    <meta property="og:description" content="Affordable housing is sparse in Winchester Mass" />
     
     <meta name="twitter:card" content="summary_large_image">
     <meta name="twitter:title" content="Marc Seitz">
